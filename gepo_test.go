@@ -12,11 +12,11 @@ func TestNearest(t *testing.T) {
 	}
 
 	points := []*Point{
-		NewPoint("a", 13.404598, 52.522973),
-		NewPoint("b", 13.387744, 52.528383),
-		NewPoint("luxstr", 13.353576, 52.543751),
-		NewPoint("wd", 13.361131, 52.552046),
-		NewPoint("gb", 13.371625, 52.558554),
+		NewPoint("a", 52.522973, 13.404598),
+		NewPoint("b", 52.528383, 13.387744),
+		NewPoint("luxstr", 52.543751, 13.353576),
+		NewPoint("wd", 52.552046, 13.361131),
+		NewPoint("gb", 52.558554, 13.371625),
 	}
 
 	tests := []struct {
