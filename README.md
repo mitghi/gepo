@@ -1,5 +1,8 @@
 # gepo
 
+[<img src="https://img.shields.io/badge/godocs-gepo-mitghi"></img>](https://pkg.go.dev/github.com/mitghi/gepo)
+![GitHub](https://img.shields.io/github/license/mitghi/gepo)
+
 Gepo is simple implementation of NNS (Proximity search) algorithm. It provides minimal, simple and easy to use api 
 to insert and search nearest points on a plane which is divided into tiles.
 
